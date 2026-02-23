@@ -1,0 +1,10 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore everything by default
+*
+
+# But allow these
+!pythonbasics/
+!pythonbasics/**/*.ipynb
+!.gitignore
